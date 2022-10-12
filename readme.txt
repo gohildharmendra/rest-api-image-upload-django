@@ -14,7 +14,6 @@ Method : POST
 URL : http://127.0.0.1:8000/upload/
 
 #Header pass Token [Authorization Token <t-value>]
-
 body : Form
 {
     "image":,
