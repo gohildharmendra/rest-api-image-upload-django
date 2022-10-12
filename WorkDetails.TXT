@@ -1,0 +1,30 @@
+#First I Created Virtualenv name "venv"
+
+#Install packages like
+>pip install django
+>pip install djangorestframework
+
+#Create Project name "fileupload"
+#Create App name "image_app"
+
+#Run Project
+
+#MySQL Database setup (settings.py file)
+>pip install mysqlclient
+
+#migrate Run
+
+#Create superuser(u-admin, p-admin)
+
+# Add apps name in settings.py file
+
+#Create Model "Images"
+#Create Serliazers.py file create Serliazer and validation 500kb max size image upload
+
+#Code write in views.py file
+
+#pip install Pillow
+
+#Write code views.py file
+
+
